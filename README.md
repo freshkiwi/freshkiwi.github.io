@@ -1,46 +1,19 @@
-## Programming Portfolio
+# Programming Portfolio
 
 ## **ADVENTURE GAME**
-### TOWER QUEST
+#### TOWER QUEST
 ![image](https://user-images.githubusercontent.com/71942771/162590965-b9df3fe2-d9c4-43e9-8a68-8bca9f9f2f4e.png)
 
-A texted, turn-based, RPG game that demostrates the use of object-oriented programming.
+A texted, turn-based, RPG game that demostrates the use of object-oriented programming. Derivative of [C# Adventure Game.](http://programmingisfun.com/learn/c-sharp-adventure-game/)
 
+## Madlib
+A program which allows the user to input words to alter a story: [Madlib](https://github.com/freshkiwi/Madlib-Project)
 
-## Welcome to GitHub Pages
+## Bear Counting
+A small program used to count down from a specified number: [Bear Counting](https://github.com/freshkiwi/Bear-Counting)
 
-You can use the [editor on GitHub](https://github.com/freshkiwi/freshkiwi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Adopt A Robot
+A small program in which the user creates their own robot: [Adopt A Robot](https://github.com/freshkiwi/Adopt-A-Robot)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freshkiwi/freshkiwi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Store Application
+An application in which in the user shops at a store: [Store Application](https://github.com/freshkiwi/Store-Application)
